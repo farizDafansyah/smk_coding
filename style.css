@@ -1,0 +1,45 @@
+.kopi-background {
+    background: #ffe8f7;
+    z-index: -1;
+}
+.kopi-background .container {
+    height: 17rem;
+}
+.kopi-background img{
+    position: absolute;
+    top: -5rem;
+    left: -5rem;
+    height: 130%;
+}
+.popular {
+    margin-top: -16rem;
+    padding-left: 3rem;
+}
+.popular h2 span, .delifery-service h2 span{
+    text-decoration: underline orange;
+}
+.popular .cards{
+    background: #F9D9AA;
+    margin-top: 7rem;
+    padding: 3rem;
+    position: relative;
+}
+.popular .cards .card{
+    margin-top: -8rem;
+    padding: 1rem;
+}
+.popular .cards .card .card-icon{
+    background: orange;
+    padding: .6rem .7rem;
+}
+.popular .cards .card .card-icon img{
+    width: 1.3rem;
+}
+
+.delifery-service{
+    /* margin-top: 5rem; */
+    padding: 5rem 0;
+}
+.delifery-service .image-delifery{
+    width: 40%;
+}
