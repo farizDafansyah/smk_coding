@@ -26,6 +26,7 @@
     margin-top: 7rem;
     padding: 3rem;
     position: relative;
+    border-radius: 4rem;
 }
 .popular .cards .card{
     margin-top: -8rem;
