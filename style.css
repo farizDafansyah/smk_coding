@@ -1,3 +1,6 @@
+* {
+    font-family: "Poppins";
+}
 .kopi-background {
     background: #ffe8f7;
     z-index: -1;
@@ -28,11 +31,15 @@
     margin-top: -8rem;
     padding: 1rem;
 }
-.popular .cards .card .card-icon{
+.popular .cards .card .star-icon img{
+    width: 1.3rem;
+}
+.popular .cards .card .cart-icon{
     background: orange;
     padding: .6rem .7rem;
 }
-.popular .cards .card .card-icon img{
+
+.popular .cards .card .cart-icon img{
     width: 1.3rem;
 }
 
